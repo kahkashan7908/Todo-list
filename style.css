@@ -1,0 +1,31 @@
+
+body{
+    font-family: Arial;
+    background: #e2dfdf;
+}
+header .navbar{
+    padding: 15px 0;
+}
+header .navbar .navbar-brand{
+    color:azure;
+}
+section {
+    width: 100%;
+    padding: 30px 0;
+}
+section h1 {
+    font-size: 35px;
+    margin-bottom: 20px;
+}
+.todo-inner {
+    width: 100%;
+    padding: 40px;
+    box-shadow: rgb(0,0,0,0.8);
+    background:azure;
+}
+table tr td button {
+    border: none;
+    padding: 0px;
+    cursor: pointer;
+}
+.completed{text-decoration: line-through;}
